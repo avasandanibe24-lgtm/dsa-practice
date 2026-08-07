@@ -16,18 +16,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## String
 |  |
 | ------- |
@@ -48,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1009-complement-of-base-10-integer) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
