@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0572-subtree-of-another-tree) |
+## Stack
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
