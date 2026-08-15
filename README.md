@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0133-clone-graph](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0133-clone-graph) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Two Pointers
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0133-clone-graph) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
