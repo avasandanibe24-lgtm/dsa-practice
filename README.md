@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
