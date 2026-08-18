@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2029-stone-game-ix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -187,4 +189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2029-stone-game-ix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
