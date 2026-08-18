@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1510-stone-game-iv) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1510-stone-game-iv) |
@@ -196,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
