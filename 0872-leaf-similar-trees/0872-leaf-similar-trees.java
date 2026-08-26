@@ -1,32 +1,34 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-
-    public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-
-        StringBuilder s1 = new StringBuilder();
-        StringBuilder s2 = new StringBuilder();
-
-        dfs(root1, s1);
-        dfs(root2, s2);
-
-        return s1.toString().equals(s2.toString());
-    }
-
-
-    private void dfs(TreeNode root, StringBuilder sol) {
-
-        if (root == null) {
-            return;
+ public boolean leafSimilar(TreeNode root1, TreeNode root2) {
+            List<Integer> list1 = new ArrayList<>();
+            List<Integer> list2 = new ArrayList<>();
+            inOrder(root1, list1);
+            inOrder(root2, list2);
+            return list1.equals(list2);
         }
 
-
-        // leaf node
-        if (root.left == null && root.right == null) {
-            sol.append(root.val).append(",");
-            return;
+        private void inOrder(TreeNode root, List<Integer> list) {
+            if (root == null) return;
+            if (root.left == null && root.right == null) {
+                list.add(root.val);
+                return;
+            }
+            inOrder(root.left, list);
+            inOrder(root.right, list);
         }
-
-
-        dfs(root.left, sol);
-        dfs(root.right, sol);
-    }
 }
