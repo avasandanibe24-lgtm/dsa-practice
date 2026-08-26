@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0938-range-sum-of-bst) |
 ## String
 |  |
 | ------- |
