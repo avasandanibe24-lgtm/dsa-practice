@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
 ## String
 |  |
 | ------- |
@@ -150,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
 ## Array
 |  |
 | ------- |
