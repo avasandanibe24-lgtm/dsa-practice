@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0198-house-robber) |
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
+| [0997-find-the-town-judge](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0997-find-the-town-judge](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0133-clone-graph) |
+| [0997-find-the-town-judge](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0997-find-the-town-judge) |
 ## Counting
 |  |
 | ------- |
