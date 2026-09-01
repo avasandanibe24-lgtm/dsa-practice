@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0993-cousins-in-binary-tree) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Minimax
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
@@ -282,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
