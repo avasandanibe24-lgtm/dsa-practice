@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
