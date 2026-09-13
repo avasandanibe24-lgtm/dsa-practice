@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0198-house-robber) |
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0835-image-overlap) |
 | [0997-find-the-town-judge](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1386-cinema-seat-allocation) |
@@ -310,5 +311,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
