@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
