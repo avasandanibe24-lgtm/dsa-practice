@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0993-cousins-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0897-increasing-order-search-tree) |
+| [1096-brace-expansion-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1096-brace-expansion-ii) |
 ## Array
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0133-clone-graph) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -291,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
