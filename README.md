@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0198-house-robber) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0835-image-overlap) |
 | [0997-find-the-town-judge](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0997-find-the-town-judge) |
