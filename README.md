@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0993-cousins-in-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
@@ -455,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Geometry
@@ -491,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/avasandanibe24-lgtm/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
